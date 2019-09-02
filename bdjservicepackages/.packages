@@ -50,6 +50,7 @@ protobuf:packages/protobuf/
 pub_semver:packages/pub_semver/
 pubspec_parse:packages/pubspec_parse/
 quiver:packages/quiver/
+rxdart:packages/rxdart/
 scratch_space:packages/scratch_space/
 shelf:packages/shelf/
 shelf_web_socket:packages/shelf_web_socket/

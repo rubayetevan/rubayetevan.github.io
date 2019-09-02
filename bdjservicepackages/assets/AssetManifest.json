@@ -1,5 +1,8 @@
 {
-    "assets/images/calculator_logo.png":[
-    "assets/images/calculator_logo.png"
+    "assets/images/calculator_logo.png": [
+        "assets/images/calculator_logo.png"
+    ],
+    "assets/jsons/service_package_data.json": [
+        "assets/jsons/service_package_data.json"
     ]
 }

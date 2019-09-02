@@ -3,6 +3,7 @@ assets/AssetManifest.json
 assets/FontManifest.json
 assets/fonts/MaterialIcons-Regular.ttf
 assets/images/calculator_logo.png
+assets/jsons/service_package_data.json
 index.html
 main.dart.js
 packages/$sdk/_internal/ddc_sdk.sum
